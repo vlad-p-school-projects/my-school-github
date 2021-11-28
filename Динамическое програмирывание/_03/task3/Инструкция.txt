@@ -1,0 +1,5 @@
+Переводит любой текст в camel casing.
+
+hello-world ==> helloWorld
+
+hello_world ==> helloWorld
